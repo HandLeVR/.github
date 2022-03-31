@@ -12,7 +12,7 @@ Dabei wird der rein explorative Zugang einem stärker didaktisierten Zugang gege
 
 Zentrales Werkzeug für dieses Vorhaben ist eine dreidimensionale VR-Lernumgebung: die VR-Lackierwerkstatt. Sie besteht aus einem Autorenwerkzeug für Lehrende sowie einer VR-Trainingsanwendung und einer Reflexionsanwendung für Auszubildende. 
 
-Das Projekt wird durch einen Verbund aus ausgewiesenen Expertinnen und Experten in den Bereichen der Entwicklung von VR-Anwendungen (Universität Potsdam), der digital ausgerichteten Didaktik (Learning Lab der Universität Duisburg-Essen) sowie der beruflichen Qualifizierung und Weiterbildung im Handwerk (ZWH e. V.) getragen. Anwendungspartnerin im Rahmen des Projekts ist die Mercedes-Benz Ludwigsfelde GmbH mit einem Schwerpunkt in der Ausbildung von Fahrzeuglackierern/Fahrzeuglackiererinnen.
+Das Projekt wird durch einen Verbund aus ausgewiesenen Expertinnen und Experten in den Bereichen der Entwicklung von VR-Anwendungen (Universität Potsdam, Lehrstuhl von Prof. Ulrike Lucke), der digital ausgerichteten Didaktik (Learning Lab der Universität Duisburg-Essen, Lehrstuhl von Prof. Michael Kerres) sowie der beruflichen Qualifizierung und Weiterbildung im Handwerk (ZWH e. V.) getragen. Anwendungspartnerin im Rahmen des Projekts ist die Mercedes-Benz Ludwigsfelde GmbH mit einem Schwerpunkt in der Ausbildung von Fahrzeuglackierern/Fahrzeuglackiererinnen.
 
 HandLeVR wird gefördert vom Bundesministerium für Bildung und Forschung (BMBF), Förderkennzeichen: 01PV18002A, Laufzeit: 01.01.2019 - 31.12.2021
 
@@ -94,7 +94,7 @@ In this context, the purely explorative approach is contrasted with a more didac
 
 The central tool for this project is a three-dimensional VR learning environment: the VR paint shop. It consists of an authoring tool for teachers as well as a VR training application and a reflection application for trainees.
 
-The project is supported by a network of proven experts in the fields of VR application development (University of Potsdam), digitally oriented didactics (Learning Lab of the University of Duisburg-Essen) and vocational qualification and further training in the skilled trades (ZWH e. V.). The project's application partner is Mercedes-Benz Ludwigsfelde GmbH, which focuses on training vehicle painters.
+The project is supported by a network of proven experts in the fields of VR application development (University of Potsdam, Chair of Prof. Ulrike Lucke), digitally oriented didactics (Learning Lab of the University of Duisburg-Essen, Chair of Prof. Michael Kerres) and vocational qualification and further training in the skilled trades (ZWH e. V.). The project's application partner is Mercedes-Benz Ludwigsfelde GmbH, which focuses on training vehicle painters.
 
 HandLeVR is funded by the German Federal Ministry of Education and Research (BMBF), funding code: 01PV18002A, duration: 01.01.2019 - 31.12.2021
 
